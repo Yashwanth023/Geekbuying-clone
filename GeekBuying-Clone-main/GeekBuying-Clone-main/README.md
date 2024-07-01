@@ -5,19 +5,12 @@ This is a clone of the e-commerce website Geek Buying, implemented using HTML, C
 Geekbuying is an e-commerce platform that offers a diverse range of products, including electronics, gadgets, home appliances, and fashion items. The website enables users to browse and purchase products across various categories such as smartphones, laptops, smart home devices, and drones. This clone project aims to replicate the functionality and design of Geekbuying, providing users with a similar online shopping experience.
 
 ### HomePage
-![HomePage](https://user-images.githubusercontent.com/110231091/208371658-aa176dea-9959-40fa-872b-8826ddb6dd09.png)
+![Screenshot (77)](https://github.com/Yashwanth023/Geekbuying-clone/assets/143989092/ffc44787-fdfa-4287-ac8c-e5653e59b8f4)
 
-### New Arrival Page
-![New Arrival Page](https://user-images.githubusercontent.com/110231091/208371758-3b7bb489-aa17-406c-b9c0-740ca3d5509d.png)
+###  Account Creating
+![Screenshot (78)](https://github.com/Yashwanth023/Geekbuying-clone/assets/143989092/40451a6e-2276-493f-98d4-ba8097bc3573)
 
-### Best Selling Page
-![Best Selling Page](https://user-images.githubusercontent.com/110231091/208371913-d05a08a9-af29-4790-b640-63cefe83155e.png)
+![Screenshot (81)](https://github.com/Yashwanth023/Geekbuying-clone/assets/143989092/44d28487-8f63-4d35-a16b-3e96feac15d3)
 
-### Cart Page
-![Cart Page](https://user-images.githubusercontent.com/110231091/208372164-eb39c5a6-45dc-4a99-ad52-1a48c9e55a5d.png)
-
-### SignIn Page
-![SignIn Page](https://user-images.githubusercontent.com/110231091/208372289-fa689d5d-e4b5-40cc-bc42-07415b3e6e02.png)
-
-### SignUp Page
-![SignUp Page](https://user-images.githubusercontent.com/110231091/208372412-129735f3-1d24-49f9-bf89-b3c41411cd87.png)
+### CartPage
+![Screenshot (82)](https://github.com/Yashwanth023/Geekbuying-clone/assets/143989092/96f09da9-1159-4a0e-8928-09f963903b57)
