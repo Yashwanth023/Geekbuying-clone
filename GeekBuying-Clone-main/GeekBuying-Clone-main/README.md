@@ -1,14 +1,8 @@
 # GeekBuying-Clone
-
 This is a clone of the e-commerce website Geek Buying, implemented using HTML, CSS, and JavaScript.
 
 ## Description
 Geekbuying is an e-commerce platform that offers a diverse range of products, including electronics, gadgets, home appliances, and fashion items. The website enables users to browse and purchase products across various categories such as smartphones, laptops, smart home devices, and drones. This clone project aims to replicate the functionality and design of Geekbuying, providing users with a similar online shopping experience.
-
-## Deployment
-The project has been deployed on Netlify. You can access the live version of the GeekBuying-Clone by following this link: [GeekBuying-Clone Deployed Link](https://geekbuying-clone-gb.netlify.app/)
-
-## Screenshots
 
 ### HomePage
 ![HomePage](https://user-images.githubusercontent.com/110231091/208371658-aa176dea-9959-40fa-872b-8826ddb6dd09.png)
